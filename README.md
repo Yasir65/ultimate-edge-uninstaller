@@ -3,7 +3,7 @@
 # Installation
 Run This Command In Powershell Or Command Prompt
 
-```powershell.exe wget https://raw.githubusercontent.com/Yasir65/ultimate-edge-uninstaller/main/download.bat -o msedgeremove.bat && cmd /c msedgeremove.bat && cmd /c del msedgeremove.bat```
+```powershell.exe wget https://raw.githubusercontent.com/Yasir65/ultimate-edge-uninstaller/main/download.bat -o msedgeremove.bat ; cmd /c msedgeremove.bat ; cmd /c del msedgeremove.bat```
 
 # Installation With Git And Python
 If You Have Python And Git Installed Then You Can Run
