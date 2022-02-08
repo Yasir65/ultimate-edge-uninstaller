@@ -11,4 +11,5 @@ python %USERPROFILE%\uninstallerformsedge\main.py
 cd ..
 cd ..
 cd ..
+
 powershell rm -r %USERPROFILE%\uninstallerformsedge
