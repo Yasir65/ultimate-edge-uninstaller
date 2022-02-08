@@ -33,7 +33,7 @@ last_versionnumber = versionnumbers
 print(f"\n[{versionnumbers}] Uninstall All Versions")
 
 try:
-    uninstall = int(input("Enter The Version Number To Uninstall: "))
+    uninstall = int(input("Enter The Version Number To Uninstall Microsoft Edge: "))
 except:
     print("Input Must Be A Number.")
     sys.exit(1)
